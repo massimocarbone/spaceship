@@ -1,0 +1,2 @@
+numstars 4
+highscore 14
